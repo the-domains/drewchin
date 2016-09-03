@@ -1,19 +1,4 @@
-name: Drewchin
-favicon: null
-layout_spectrum: 0.8751923271920532
 typography_spectrum: 0.3426035800948739
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,19 @@ color:
   lightness: 0.3227591279428452
   saturation: 0.7928702556528151
   rhythmicContrast: 0.0561836373526603
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8751923271920532
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Drewchin
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
