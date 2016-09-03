@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ART x PHILOSOPHY = ARCHITECTURE]]></title>
+        <description><![CDATA[ART x PHILOSOPHY = ARCHITECTURE]]></description>
+        <link>https://thegrid.ai/drewchin/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 04:13:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drewchin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26a3da25-1aee-4e76-95f3-582632d742cb.jpg">]]></description>
+            <link>https://thegrid.ai/drewchin/41a1dd2e-259c-4b66-8d14-af8584430f37/index.html</link>
+            <guid isPermaLink="false">41a1dd2e-259c-4b66-8d14-af8584430f37</guid>
+            <pubDate>Thu, 01 Sep 2016 04:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dd6863d-94cf-4303-97ed-d2e5dd548096.jpg">]]></description>
+            <link>https://thegrid.ai/drewchin/367c6e4b-1054-431e-8e33-d5e8430d1aa3/index.html</link>
+            <guid isPermaLink="false">367c6e4b-1054-431e-8e33-d5e8430d1aa3</guid>
+            <pubDate>Thu, 01 Sep 2016 04:13:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
