@@ -1,5 +1,25 @@
-layout_spectrum: 0.2314981787931174
+name: Silas Drew-Ch(Innes)
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.4669428579509258
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
+title: ART x PHILOSOPHY = ARCHITECTURE
+description: Professionally Unprofessional
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,24 +31,4 @@ color:
   lightness: 0.03889205981977284
   saturation: 0.002770117251202464
   rhythmicContrast: 0.806695681065321
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Silas Drew-Ch(Innes)
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: ART x PHILOSOPHY = ARCHITECTURE
-description: Professionally Unprofessional
 purpose: []
