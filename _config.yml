@@ -1,9 +1,20 @@
-name: Silas Drew-Ch(Innes)
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.32186
+layout_spectrum: 0.36680609872564673
+typography_spectrum: 0.5526738408952951
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.002770117251202464
+  rhythmicContrast: 0.806695681065321
 coverPrefs:
   filter: false
+name: Silas Drew-Ch(Innes)
+favicon: null
 content_rating:
   adult: false
 title: 'Always Working, Always Playing '
@@ -20,15 +31,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.002770117251202464
-  rhythmicContrast: 0.806695681065321
 purpose: []
