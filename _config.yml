@@ -34,7 +34,7 @@ cta:
   bucket: null
   version: null
 favicon: null
-title: SPACE//OBJECT//FREQUENCY
+title: SPACEOBJECT//FREQUENCY
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -62,7 +62,6 @@ content:
         laurian ghinitoiu & arata mori music by yu miyashita
         https://www.facebook.com/anothertwo2 http://www.laurianghinitoiu.com |
         http://www.aratamori.com | https://underarrow.com
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vimeo://app.vimeo.com/videos/303286558'
