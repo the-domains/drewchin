@@ -34,7 +34,7 @@ cta:
   bucket: null
   version: null
 favicon: null
-title: SPACEOBJECT//FREQUENCY
+title: SPACE//OBJ//FREQ
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
